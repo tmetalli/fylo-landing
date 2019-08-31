@@ -1,0 +1,27 @@
+/*
+colours:
+
+### Primary
+- Soft Blue: hsl(243, 86%, 85%)
+- Dark Blue: hsl(243, 87%, 12%)
+
+### Accent
+- Green: hsl(163, 95%, 43%)
+
+### Neutral
+- Gray: hsl(0, 0%, 50%)
+
+
+
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: hsl(243, 87%, 12%);
+}
